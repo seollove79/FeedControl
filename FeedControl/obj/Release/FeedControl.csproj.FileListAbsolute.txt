@@ -11,7 +11,6 @@ D:\devwork\FeedControl\FeedControl\bin\Release\AForge.Video.xml
 D:\devwork\FeedControl\FeedControl\bin\Release\AForge.Video.DirectShow.xml
 D:\devwork\FeedControl\FeedControl\bin\Release\EasyModbus.xml
 D:\devwork\FeedControl\FeedControl\bin\Release\Newtonsoft.Json.xml
-D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.csproj.AssemblyReference.cache
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.MainForm.resources
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.Properties.Resources.resources
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.csproj.GenerateResource.cache

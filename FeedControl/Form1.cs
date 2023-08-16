@@ -203,7 +203,7 @@ namespace FeedControl
                 if (checkFeedFinish == 1)
                 {
                     //TODO 급이에 맞는 API로 변경
-                    diary.post("GROWTH", cardreader.getCardNumber(), 123, 123, 123, 123);
+                    diary.post("FEED", cardreader.getCardNumber(), 123, 123, 123, 123);
                     WriteMeasureFinishRegisters();
                 }
 
@@ -273,7 +273,7 @@ namespace FeedControl
                 // 연결
                 if (!modbusClient.Connected)
                     modbusClient.Connect();
-                modbusClient.WriteSingleRegister(17, 0);
+                modbusClient.WriteSingleRegister(11, 0);
             }
             catch (Exception ex)
             {
