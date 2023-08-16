@@ -18,3 +18,4 @@ D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.csproj.CoreCompileInp
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.csproj.CopyComplete
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.exe
 D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.pdb
+D:\devwork\FeedControl\FeedControl\obj\Release\FeedControl.csproj.AssemblyReference.cache

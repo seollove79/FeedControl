@@ -203,7 +203,10 @@ namespace FeedControl
                 if (checkFeedFinish == 1)
                 {
                     //TODO 급이에 맞는 API로 변경
-                    diary.post("FEED", cardreader.getCardNumber(), 123, 123, 123, 123);
+                    /*diary.updateDiary("FEED", cardreader.getCardNumber(), measureFirstWeight: firstWeight, measureFeedWeight: feedWeight, measureTotalWeight: totalWeight,
+                       selectInstarName: "갈색거저리", selectFeedTime: 0, selectLastFeedTime: 0, selectFeedName: "밀기울");*/
+
+                    diary.updateDiary("FEED", cardreader.getCardNumber(), "갈색거저리", "밀기울", 1, 0, firstWeight, feedWeight, totalWeight);
                     WriteMeasureFinishRegisters();
                 }
 
